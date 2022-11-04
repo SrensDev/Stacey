@@ -1,0 +1,23 @@
+{
+  "name": "stacey",
+  "version": "1.0.0",
+  "description": "Stacey Discord Bot",
+  "main": "stacey.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrensDev/Stacey.git"
+  },
+  "author": "Srens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SrensDev/Stacey/issues"
+  },
+  "homepage": "https://github.com/SrensDev/Stacey#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "fs": "^0.0.1-security"
+  }
+}
